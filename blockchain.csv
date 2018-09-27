@@ -1,0 +1,106 @@
+What is blockchain,<>,T046-The blockchain is a decentralized distributed database of immutable records. ,||
+Why blockchain is important,<>,T046-some reasons why Blockchain technology has become important  are : 1) Time reduction 2)Unchangeable transactions 3) trusted approach 4)Reliability 5)Transparency 6)Decentralized,||
+What is a ledger,<>,"T046-The ledger is the sequenced, tamper-resistant record of all state transitions.",||
+My leave balance page is blank. Let me know how I can see thses information.,<>,T046-A Blockchain transaction can be defined as a small unit of task that is stored in public records.,||
+What is consensus,<>,T046-Consensus is the process by which a network of nodes provides a guaranteed ordering of transactions and validates the block of transactions. ,||
+What is encryption,<>,T046-Encryption is basically an approach that helps organizations to keep their data secure.,||
+What is crypto currency,<>,T046-A cryptocurrency is a digital or virtual currency designed to work as a medium of exchange.,||
+What is ico,<>,"T046-An Initial Coin Offering, also commonly referred to as an ICO, is a fundraising mechanism in which new projects sell their underlying crypto tokens in exchange for bitcoin and ether",||
+What is crowd funding,<>,T046-crowdfunding is a type of crowdsourcing that brings together many individuals who want to invest money to different companies and projects they want to support.,||
+What is distributed ledger,<>,"T046-A distributed ledger can be described as a ledger of any transactions or contracts maintained in decentralized form across different locations and people, eliminating the need of a central authority.",||
+What is bitcoin,<>,T046-Most popular crypto currency.,||
+What is ethereum,<>,T046-Ethereum is an open source and public blockchain platform.,||
+What is dlt/Distributed ledger Technology,<>,T046-Distributed ledger technology (DLT) is a digital system for recording the transaction of assets in which the transactions and their details are recorded in multiple places at the same time. ,||
+What is hyperledger,<>,T046-Hyperledger is an open source collaborative project hosted by The Linux Foundation,||
+What are the different type of blockchain,<>,T046-Blockchains are of three types: 1) Public  2) Private 3)Consortium,||
+What is public blockchain,<>,T046-A blockchain is so called public when  anyone can become a member of the network without condition of admissions. The public blockchain is permissionless and open to everybody without exception.,||
+What is private blockchain,<>,T046-Private or permissioned blockchains operate similarly to public blockchains but have access controls that limit who can participate in the network. ,||
+What is replication,<>,T046-Replication is the process of making a replica (a copy) of data.,||
+What is broadcasting,<>,T046-Broadcasting is the simultaneous transmission of the same message to multiple recipients.,||
+What is a block,<>,T046-A block in the Blockcahin is nothing but just a list of records. ,||
+What is smart contract,<>,T046-Smart contracts are a self-operating computer program that automatically executes when specific conditions are met,||
+Blockcahin vs traditional database,<>,"T046-In Blockchain, we have no centralized system of control but traditional database  is centrally controlled by the administrator.Blockchain  makes the information safe and secure but  traditional database  led to the cases of hacking and forgery. ",||
+Centralized database vs decentralized database,<>,"T046- In decentralized databse we have no centralized system of control but  centralized database is centrally controlled by the administrator.With the decentralized system  it eliminates the risk of accessing the data and corrupting it but  in the centralized database, anyone who has access to the system can corrupt or destroy the data ",||
+What is distributed database,<>,"T046-A distributed database is basically a database that is not limited to one system, it is spread over different sites, i.e, on multiple computers or over a network of computers.",||
+What is a genesis block,<>,T046-The first block of the blockchain,||
+What is mining,<>,T046-Mining is a process of validating transactions into a new block and adding this block to the existing Blockchain. ,||
+Different mining algorithms,<>,"T046-proof of work , proof of stake ",||
+What is a node,<>,T046-Node is a computer connected to the blockchain network using a client that performs the task of validating and relaying transactions.,||
+What is a peer,<>,"T046-A blockchain network is comprised of peer nodes, each of which can hold copies of ledgers and copies of smart contracts and are the fundamental element of the network.",||
+What is proof of work (pow),<>,"T046-Proof-of-Work, or PoW, is the original consensus algorithm in a Blockchain network this algorithm is used to confirm transactions and produce new blocks to the chain",||
+How does blockchain works,<>,T046-User make transactions ---->  Bundling transaction in a block ------> verifying if transaction are valid ----->selecting the header of the most recent block and inserting it into the new block as a hash ----> solving the proof of work problem -----> once the solution is find the new block is added  to the blockchainand propogate to the network,||
+What is wallet,<>,T046-Wallet is used to store our crypto currency.,||
+What is public key,<>,T046-Public Keys can be shared with other people on the network.,||
+What is private key,<>,T046-A key to sign transaction and keep it in a secure place,||
+What is certificate,<>,T046-A digital certificate is a document which holds a set of attributes relating to the holder of the certificate.,||
+What is digital signature,<>,T046-A digital signature guarantees the authenticity of an electronic document or message in digital communication and uses encryption techniques. ,||
+What is double spending,<>,T046-Double-spending is an error in digital cash scheme in which the same single digital token is spent twice or more.,||
+What is dos attack,<>,"T046-A Denial-of-Service (DoS) attack is an attack meant to shut down a machine or network, making it inaccessible to its intended users. It accomplish this by flooding the target with traffic, or sending it information that triggers a crash",||
+What is merkle tree,<>,"T046-Merkle Tree also known as ‘hash tree’  in which each leaf node is a hash of a block of data, and each non-leaf node is a hash of its child nodes",||
+What is merkle root,<>,T046-Merkle root is the hash of all the hashes of all the transactions in the block. The Merkle root is a part of the block header. ,||
+What is 51% attack,<>,T046-51% Attack refers to a situation where a group of miners who hold more than 50% of the Network Hash Rate could manipulate with the New transactions (Stopping the transactions to proceed or gaining conformations),||
+What is a nonce,<>,T046-A nonce is an arbitrary number that can only be used once.,||
+What is proof of stake (pos),<>,"T046-In Proof of stake ,the creator of a new block is chosen in a deterministic way,depending on  its wealth,also defined as stake",||
+Who invented bitcoin,<>,T046-Satoshi Nakamoto,||
+Who invented ethereum,<>,T046-Vitalik Buterin,||
+What is provenance,<>,"T046- Provenance is the field of recording the history of data, from its inceptions to various stages of the data lifecycle",||
+What is dao attack,<>,"T046-An unknown attacker exploited a critical flaw in the Parity multi-signature wallet on the Ethereum network, draining three massive wallets of Ether",||
+What is peer to peer network p2p,<>,"T046-Peer-to-peer (P2P) networks consist of computer systems which are directly connected to each other via the Internet, without a central server",||
+What is certificate authority ca,<>,T046-The Certificate Authority (CA) provides a number of certificate services to users of a blockchain,||
+What is dapp,<>,T046-Decentralized applications (dApps) are applications that run on a P2P network of computers rather than a single computer,||
+What is ether,<>,T046-Another most popular crypto currency after bitcoin,||
+What is ethereum gas,<>,T046-Ethereum gas is an internal unit of account for transactions on the Ethereum network,||
+What is transaction payload,<>,T046-The data within a transaction,||
+What is the primary benefit of immutability,<>,T046-There are plenty of benefits of immutability but the foremost basic benefit is increased efficiency.,||
+What is a miner,<>,T046-Computers that validate and process blockchain transactions.,||
+What is utxo model,<>,T046-In  utxo model each transaction consumes a set of existing states to produce a set of new states.,||
+What is account model,<>,"T046-In an account model, stateful objects are stored on-ledger, and transactions take the form of requests to update the current state of these objects.",||
+What are the features of blockchain,<>,T046-1) Decentralized Systems  2)Distributed ledger   3)Safer & Secure system   4)Minting,||
+What is an asset,<>,"T046-Tangible or intangible goods, services, or property that are represented as an item that is traded on the blockchain network",||
+What is consortium ,<>,"T046- A consortium blockchain is often said to be semi-decentralized,permission  blockchain but instead of a single organization controlling it, a number of companies might each operate a node on such a network. ",||
+What is hyperledger fabric,<>,T046-Fabric is an enterprise blockchain platform under Linux Foundation's Hyperledger project.,||
+What is token,<>,"T046-In it’s simplest terms, its just a unit of value.A token  is a specific amount of digital resources which you control and can reassign control of to someone else",||
+What is evm,<>,T046-An Ethereum Virtual Machine (EVM) processes and executes smart contracts,||
+What is solidity,<>,"T046-Solidity is known as a contract-based, high-level programming language. Solidity as a programming language is made to enhance the Ethereum Virtual Machine. ",||
+What is soft fork,<>,"T046-A Softfork is a minor, temporary alteration to the protocol wherein only previously valid blocks/transactions are made invalid",||
+What is hard fork,<>,"T046-A hard fork is a change to a protocol that renders older versions invalid. If older versions continue running, they will end up with a different protocol and with different data than the newer version. ",||
+What is byzantine general problem,<>,"T046-The Byzantine Generals Problem is a term etched from the computer science description of a situation where involved parties must agree on a single strategy in order to avoid complete failure, but where some of the involved parties are corrupt and disseminating false information or are otherwise unreliable",||
+What is iota,<>,"T046-IOTA is a revolutionary new, next generation public distributed ledger that utilizes a novel invention, called a “Tangle”, at its core",||
+What is ddos attack,<>,T046-A distributed denial-of-service attack is an attack in which multiple compromised computer systems attack a target and cause a denial of service for users of the targeted resource.,||
+What is tangle,<>,T046-The tangle is what is known as a directed acyclic graph (DAG): a data structure that moves in one direction without looping back onto itself.,||
+What is sha 256,<>,T046-SHA-256 Cryptographic Hash Algorithm.SHA-256 generates an almost-unique 256-bit (32-byte) signature for a text.,||
+what is off-chain data,<>,T046-Data external to blockchain and to be integrated with blockchain,||
+Name some popular blockchain platforms,<>,T046- 1)Ethereum. Mature Smart Contracting Cross-Industry Platform 2)Hyperledger Fabric. B2B-focused Modular Blockchain Platform 3) R3 Corda. New Operating System for Financial Services 4)Ripple. Enterprise Blockchain Solution for Global Payments 5)Quorum. Enterprise-focused Version of Etheruem,||
+What is a node,<>,T046-computer connected to the blockchain network using a client that performs the task of validating and relaying transactions,||
+Blockchain and GDPR,<>,"T046-The General Data Protection Regulation laws (GDPR), which aims to give people a say in how information about them is processed. For example, individuals have the right to request that their personal data is corrected or deleted.",||
+What is bitcoin mining,<>,T046-Bitcoin Mining is a process of validating transactions into a new block and adding this block to the existing Blockchain,||
+What is governance,<>,"T046-Governance refers to all actions such as decision-making processes that are involved in creating, updating, and abandoning formal and informal rules of a system",||
+What is immutability,<>,T046-Immutable means that something is unchanging over time or unable to be changed.,||
+What are the benefits of blockchain,<>,T046-some reasons why Blockchain technology has become important  are : 1) Time reduction 2)Unchangeable transactions 3) trusted approach 4)Reliability 5)Transparency 6)Decentralized,||
+What are the key benefits of hyperledger fabric,<>,"T046-Data protection and consistency,confidential transaction, no cryptocurrency, programmable",||
+What is chaincode,<>,T046-Smart contract aka chaincode in Hyperledger Fabric is a program typically handles business logic agreed to by members of the network.,||
+What is permissioned blockchain,<>,T046-Permissioned blockchains use an access control layer to govern who has access to the network,||
+What is permissionless blockchain,<>,T046-A public blockchain is a decentralized network that literally anyone can join. This is because no permission to join the network is required,||
+What is a transaction,<>,T046-The mechanism that participants on the blockchain network use to interact with assets. A transaction either creates new chaincode or invokes an operation in an existing chaincode.,||
+What role does a regulator play in the blockchain network?,<>,T046-Performs oversight,||
+What is a blockchain wallet used for?,<>,T046-Securely manages a user's security credentials,||
+What is pbft or practical byzantine fault tolerance,<>,"T046-Practical Byzantine Fault Tolerance. A classical consensus algorithm that uses a state machine. Uses leader and block election. PBFT is a three-phase, network-intensive algorithm , so is not scalable to large networks",||
+What is dao or decentralized autonomous organization,<>,T046-dao are organizations that exist entirely on a blockchain and are governed by its protocols,||
+What will ethereum be used for,<>,T046-decentralized existing services using ethereum. This will lead to reduced cost and fees by connecting individuals directly and removing intermediaries,||
+Why we need smart contracts,<>,T046-Automate business processes by writing a contract or business logic on a Blockchain to make things simple and efficient,||
+What is an identity,<>,T046-The different actors in a blockchain network has a digital identity encapsulated in an X.509 digital certificate,||
+What is pki or public key infrastructure,<>,T046-A public key infrastructure (PKI) is a collection of internet technologies that provides secure communications in a network,||
+What is certificate revocation list or crl,<>,T046-it’s just a list of references to certificates that a CA knows to be revoked for one reason or another,||
+Is it possible to modify the data once it is written in a block,<>,"T046-No, it’s not possible to do so",||
+What are block identifiers,<>,"T046-In blockchain, blocks can be identified by the block header hash and the block height",||
+How blockchain transaction works,<>,T046-Transaction requested ----> Broadcast transaction ----> Validate transaction ----> Add to blockchain,||
+What is hash function,<>,T046-Takes an input of any length and returns  a fixed-length string of numbers and letters,||
+What are sidechains,<>,T046-Any mechanism that allows token from one blockchain to be securely used within a completely separate blockchain,||
+What is multichain,<>,"T046-MultiChain is a faster,developer friendly open blockchain platform ",||
+What is ripple,<>,T046-Ripple was found by the company ripple which is a remittance network and currency exchange through RippleNet,||
+What is  hash,<>,"T046-A fixed-length unique sequence of random digits, which can be created from data of any size",||
+ico vs ipo,<>,"T046-ICO is the creation of digital tokens on a blockchain that is distributed through public ledger. An IPO, is the distribution of shareholdings to the public through investment banks that are known as underwriters",||
+What is state,<>,T046-A state is an immutable object representing a fact known by one or more Corda nodes at a specific point in time,||
+What does a block contain,<>,"T046-A hash pointer to the previous block,Timestamps,List of transactions",||
+what is shared ledger,<>,"T046-A distributed ledger (also called a shared ledger, or DLT) is a consensus of replicated, shared, and synchronized digital data geographically spread across multiple sites, countries, or institutions.",||
+State difference between proof of stake and proof of work.,<>,"T046-Proof-of-Work happens through miners trying to solve exceptionally difficult math problems.PoS happens by a miner putting up a stake, or locking up an amount of their coins, to verify a block of transactions",||
