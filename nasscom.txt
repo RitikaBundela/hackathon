@@ -1,0 +1,31 @@
+
+Enterprise Blockchain - Follow or lead? (Analyst view - BNFS) by Ronak Doshi, Practice Director, Everest Group
+
+- Enterprise Blockchain - Follow or lead? 
+Some organizations are making some PoCs and waiting for some organizations to do some pilot or production use cases (they are just followers). 
+Some organizations are taking lead and going for some pilot and production use cases. 
+- Enterprise blockchain adoption 2.0 – the road ahead
+- Convergence of technologies – BPM, RPA, AI, IoT, and blockchain (examples)
+- Blockchain case studies - Trade Finance
+- Blockchain and GDPR (General Data Protection Regulation)
+
+-----------------------------------------------------------------------------------------------
+
+Panel Discussion on “Enterprise Blockchain - Follow or lead?”
+
+1. Piyush Thakuria, Principal Architect, Principal Global
+2. Vineet Mago, Director, Technical Solutions, Application Services, NTT DATA Services
+3. Aruna Rebala, Vice President - Group Manager at BNY Mellon
+
+Moderator - Zaheer Nanji, Senior Director, Technology and Innovation, NTT DATA Services
+
+- Adoption in BNFS is very slow due to regulatory constraints.
+- Blockchain resource challenges in the current market.
+
+-----------------------------------------------------------------------------------------------
+
+Q&A session with the panel.
+
+1. Typical time line to develop PoC (3 months), pilot(6 months) and production(3 years onwards).
+2. Dark side of blockchain
+3. Challenges around blockchain (scalability, security etc)
